@@ -16,7 +16,7 @@ This mod is an updated version of ds5678's [Forge Blueprints Mod](https://github
 
 ## Installation 
 
-* Download latest .modcomponent file in [releases](), drop it in the mod folder and enjoy!
+* Download latest .modcomponent file in [releases](https://github.com/Jods-Its/Forge-Blueprints-DLC/releases), drop it in the mod folder and enjoy!
 * Requires [ModComponent](https://github.com/dommrogers/ModComponent) and all its dependencies to work.
 
 ## Contents
